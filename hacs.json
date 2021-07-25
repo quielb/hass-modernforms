@@ -1,0 +1,8 @@
+{
+    "name": "Modern Forms Ceiling Fan",
+    "render_readme": false,
+    "domains": ["modernforms"],
+    "country": "US",
+    "homeassistant": "2021.3.0",
+    "iot_class": "local_pull"
+}
